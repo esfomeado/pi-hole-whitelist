@@ -11,3 +11,4 @@ ad.doubleclick.net
 www.betfair.com
 t.co
 nv-sdk.jumio.com
+pt.akinator.com
