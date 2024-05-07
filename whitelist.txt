@@ -12,3 +12,4 @@ www.betfair.com
 t.co
 nv-sdk.jumio.com
 pt.akinator.com
+events.launchdarkly.com
