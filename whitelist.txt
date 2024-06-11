@@ -12,3 +12,4 @@ t.co
 nv-sdk.jumio.com
 pt.akinator.com
 events.launchdarkly.com
+tc.tradetracker.net
