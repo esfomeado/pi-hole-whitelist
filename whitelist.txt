@@ -15,3 +15,4 @@ events.launchdarkly.com
 tc.tradetracker.net
 email.strava.com
 awin1.com
+e.customeriomail.com
