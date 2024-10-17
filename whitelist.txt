@@ -18,3 +18,4 @@ awin1.com
 e.customeriomail.com
 server.cpmstar.com
 service.link.amazon.gg
+storj.cloud
