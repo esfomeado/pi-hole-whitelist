@@ -19,3 +19,4 @@ e.customeriomail.com
 server.cpmstar.com
 service.link.amazon.gg
 storj.cloud
+static.cloudflareinsights.com
