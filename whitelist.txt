@@ -20,3 +20,5 @@ server.cpmstar.com
 service.link.amazon.gg
 storj.cloud
 static.cloudflareinsights.com
+h-adashx4ae.ut.taobao.com
+adashx4ae.ut.taobao.com
