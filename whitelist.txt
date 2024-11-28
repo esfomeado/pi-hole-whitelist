@@ -24,4 +24,5 @@ h-adashx4ae.ut.taobao.com
 adashx4ae.ut.taobao.com
 email.alertas.wizink.pt
 tags.tiqcdn.com
+wizinkbank.d3.sc.omtrdc.net
 dpm.demdex.net
