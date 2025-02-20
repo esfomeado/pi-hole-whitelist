@@ -26,3 +26,4 @@ email.alertas.wizink.pt
 tags.tiqcdn.com
 wizinkbank.d3.sc.omtrdc.net
 dpm.demdex.net
+www.bitget.com
